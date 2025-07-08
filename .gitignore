@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Sessões e tokens do WhatsApp (WPPConnect)
+tokens/
+sessions/
+
+# Se você usar o nome customizado de sessão, inclua também:
+tokens/mantaray-whatsapp/
+sessions/mantaray-whatsapp/
