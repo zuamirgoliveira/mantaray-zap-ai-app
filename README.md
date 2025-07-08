@@ -133,4 +133,19 @@ manta-ray-zap-ai/
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+© 2025 Zuamir (“Autor”)
+
+Este trabalho está licenciado sob a **Creative Commons Atribuição–NãoComercial 4.0 Internacional (CC BY-NC 4.0)**.  
+Para detalhes completos, consulte o texto legal em [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
+# Você é livre para:
+
+- **Compartilhar** — copiar e redistribuir o material em qualquer meio ou formato.  
+- **Adaptar** — remixar, transformar e criar a partir do material.
+
+# Sob as seguintes condições:
+
+1. **Atribuição** — Você deve dar crédito ao Autor, fornecer um link para a licença e indicar se alterações foram feitas.  
+2. **NãoComercial** — Você não pode usar este material para fins comerciais.
+
+Para a licença completa e termos legais, visite [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).  
