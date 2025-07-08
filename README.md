@@ -2,6 +2,10 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/zuamirgoliveira/mantaray-zap-ai-app) [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zuamirgoliveira/mantaray-zap-ai-app/main/public/mantaray-white-logo.svg" alt="Logo Manta Ray Zap AI" width="500" />
+</p>
+
 ## Sumário
 
 - [Descrição](#descrição)  
