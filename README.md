@@ -1,7 +1,6 @@
 # Manta Ray Zap AI
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/seu-usuario/manta-ray-zap-ai) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![CI/CD](https://github.com/seu-usuario/manta-ray-zap-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/seu-usuario/manta-ray-zap-ai/actions)
-
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/seu-usuario/manta-ray-zap-ai) [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ## Sumário
 
 - [Descrição](#descrição)  
